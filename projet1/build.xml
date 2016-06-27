@@ -1,5 +1,5 @@
-<project name="projet1" basedir="." default="main">
-    <property name="dir.src"     value="src"/>
+<project name="projet1" basedir="." >
+    <property name="dir.src"     value="src/projet/">
     <property name="dir.build"   value="build"/>
     <property name="dir.classes" value="${dir.build}/classes"/>
     <property name="dir.jar"     value="${dir.build}/jar"/>
