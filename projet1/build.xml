@@ -1,5 +1,5 @@
 <project name="grp-projet" basedir="projet1" >
-    <property name="dir.src"     value="src/projet/">
+    <property name="dir.src"     value="src/projet1/">
     <property name="dir.build"   value="build"/>
     <property name="dir.classes" value="${dir.build}/classes"/>
     <property name="dir.jar"     value="${dir.build}/jar"/>
