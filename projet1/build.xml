@@ -1,4 +1,4 @@
-<project name="grp-projet" basedir="projet1" >
+<project name="grp-projet" basedir="." >
     <property name="dir.src"     value="src/projet1/">
     <property name="dir.build"   value="build"/>
     <property name="dir.classes" value="${dir.build}/classes"/>
